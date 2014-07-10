@@ -1,0 +1,105 @@
+html{
+	min-height: 100%;
+	margin: 0;
+}
+
+body{
+	min-height: 100%;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+header{
+
+}
+
+header>ul{
+	position: absolute;
+	right: 3%;
+	width: 22%;
+}
+
+a{
+	color: #000000;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+
+li{
+	list-style-type: none;
+	display: inline;
+	padding: 3%;
+	font-size: 75%;
+}
+
+#sign_in{
+	color: #FFFFFF;
+	background-color: #6666FF;
+	padding: .5em;
+}
+
+#sign_in_link{
+	color: #FFFFFF;
+}
+
+#sign_in_link:hover{
+	text-decoration: none;
+}
+
+section{
+	margin-left: auto;
+	margin-right: auto;
+	width: 45%;
+	margin-top: 16%;
+
+}
+
+#logo{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-bottom: 5%;
+}
+
+form{
+	width: 100%;
+}
+
+input{
+	width: 100%;
+}
+
+div{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	margin: 2%;
+	background-color: #EEEEEE;
+	border-width: 1px;
+	border-color: #DDDDFF;
+}
+
+footer{
+	background-color: #EEEEEE;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#footer_left{
+	float: left;
+	width: 17%;
+}
+#footer_right{
+	float: right;
+	width: 15%;
+}
