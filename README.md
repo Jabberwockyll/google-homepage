@@ -1,4 +1,4 @@
 google-homepage
 ===============
 
-HTML/CSS refresher
+HTML/CSS refresher practice.  Recreating google homepage.
